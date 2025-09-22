@@ -72,10 +72,10 @@ I enjoy creating **scalable, interactive, and user-friendly applications** and I
 
 | Project | Description | Tech Stack | Link |
 |---------|-------------|------------|------|
-| <b>SkillSync</b> | MERN + AI career guidance platform | <code>React</code>, <code>Node.js</code>, <code>MongoDB</code>, <code>AI</code> | [GitHub](https://github.com/janmejay484/SkillSync) |
-| <b>Journal App</b> | Full-stack journaling web app with secure login | <code>React</code>, <code>Node.js</code>, <code>MongoDB</code> | [GitHub](https://github.com/janmejay484/JournalApp) |
-| <b>Our Love Story Website</b> | Personal responsive website with interactive countdown & gallery | <code>HTML</code>, <code>CSS</code>, <code>JavaScript</code> | [GitHub](https://github.com/janmejay484/OurLoveStory) |
-| <b>Restaurant Website</b> | SEO-optimized React site for restaurant landing page | <code>React</code>, <code>Tailwind</code>, <code>Vite</code> | [GitHub](https://github.com/janmejay484/RestaurantWebsite) |
+| <b>SkillSync</b> | MERN + AI career guidance platform | <code>React</code>, <code>Node.js</code>, <code>MongoDB</code>, <code>AI</code> | [GitHub](https://github.com/janmejay484/Skill_Analyzer) |
+| <b>Journal App</b> | Full-stack journaling web app with secure login | <code>React</code>, <code>Node.js</code>, <code>MongoDB</code> | [GitHub](https://github.com/janmejay484/journal-app) |
+| <b>ReadIT</b> |Text-to-Speech web app with voice commands,file import/export,and local storage |<code>React</code>, <code>Web Speech API</code>, <code>JavaScript</code>| [GitHub](https://github.com/janmejay484/ReadIT) |
+| <b>Travel Recommender System</b> | ML-powered destination suggestion based on budget, duration, region & trip type | <code>Python</code>, <code>scikit-learn</code>, <code>Gradio</code> | [GitHub](https://github.com/janmejay484/Travel-Recommender-system) |
 
 ---
 ---
