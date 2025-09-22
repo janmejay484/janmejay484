@@ -168,14 +168,100 @@ I enjoy creating **scalable, interactive, and user-friendly applications** and I
 
 ---
 
-## 🌟 Featured Projects
+<!-- 🌟 Animated Section Title -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=28&duration=2800&pause=800&color=FFD166&center=true&vCenter=true&width=720&lines=Featured+Projects;Built+with+love+for+clean+UX+%26+DX" alt="Typing Intro" />
+</p>
+
+<!-- subtle divider -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/solar.png" width="78%" />
+</p>
+
+<!-- 🧩 Project Cards (pinned) -->
+<table align="center">
+  <tr>
+    <td>
+
+<h3>⚡ SkillSync</h3>
+  <a href="https://github.com/janmejay484/Skill_Analyzer">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=janmejay484&repo=Skill_Analyzer&show_owner=true&theme=radical&border_radius=14" alt="SkillSync repo card" />
+  </a>
+  <br/>
+  <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=0b1220&labelColor=0b1220" alt="React"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=fff&labelColor=0b1220" alt="Node.js"/>
+  <img src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=fff&labelColor=0b1220" alt="MongoDB"/>
+  <img src="https://img.shields.io/badge/AI-6EE7B7?logo=openai&logoColor=0b1220&labelColor=0b1220" alt="AI"/>
+  <br/>
+  <sub>MERN + AI career guidance platform</sub>
+
+</td>
+<td valign="top" width="50%">
+
+  <h3>📝 Journal App</h3>
+  <a href="https://github.com/janmejay484/journal-app">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=janmejay484&repo=journal-app&show_owner=true&theme=radical&border_radius=14" alt="Journal App repo card" />
+  </a>
+  <br/>
+  <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=0b1220&labelColor=0b1220" alt="React"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=fff&labelColor=0b1220" alt="Node.js"/>
+  <img src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=fff&labelColor=0b1220" alt="MongoDB"/>
+  <br/>
+  <sub>Full-stack journaling web app with secure login</sub>
+
+</td>
+
+  </tr>
+  <tr>
+    <td>
+      <h3>🔊 ReadIT</h3>
+  <a href="https://github.com/janmejay484/ReadIT">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=janmejay484&repo=ReadIT&show_owner=true&theme=radical&border_radius=14" alt="ReadIT repo card" />
+  </a>
+  <br/>
+  <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=0b1220&labelColor=0b1220" alt="React"/>
+  <img src="https://img.shields.io/badge/Web%20Speech%20API-000000?logo=googlechrome&logoColor=fff&labelColor=0b1220" alt="Web Speech API"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=0b1220&labelColor=0b1220" alt="JavaScript"/>
+  <br/>
+  <sub>Text-to-Speech with voice commands, file import/export, local storage</sub>
+
+</td>
+<td valign="top" width="50%">
+
+  <h3>🧭 Travel Recommender System</h3>
+  <a href="https://github.com/janmejay484/Travel-Recommender-system">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=janmejay484&repo=Travel-Recommender-system&show_owner=true&theme=radical&border_radius=14" alt="Travel Recommender repo card" />
+  </a>
+  <br/>
+  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff&labelColor=0b1220" alt="Python"/>
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E?logo=scikitlearn&logoColor=0b1220&labelColor=0b1220" alt="scikit-learn"/>
+  <img src="https://img.shields.io/badge/Gradio-FF4B4B?logo=gradio&logoColor=fff&labelColor=0b1220" alt="Gradio"/>
+  <br/>
+  <sub>ML suggestions by budget, duration, region & trip type</sub>
+
+</td>
+
+  </tr>
+</table>
+
+<!-- 📂 Compact list with descriptions (collapsible) -->
+<details>
+  <summary><b>Quick list view</b> — tap to expand</summary>
 
 | Project | Description | Tech Stack | Link |
-|---------|-------------|------------|------|
-| <b>SkillSync</b> | MERN + AI career guidance platform | <code>React</code>, <code>Node.js</code>, <code>MongoDB</code>, <code>AI</code> | [GitHub](https://github.com/janmejay484/Skill_Analyzer) |
-| <b>Journal App</b> | Full-stack journaling web app with secure login | <code>React</code>, <code>Node.js</code>, <code>MongoDB</code> | [GitHub](https://github.com/janmejay484/journal-app) |
-| <b>ReadIT</b> |Text-to-Speech web app with voice commands,file import/export,and local storage |<code>React</code>, <code>Web Speech API</code>, <code>JavaScript</code>| [GitHub](https://github.com/janmejay484/ReadIT) |
-| <b>Travel Recommender System</b> | ML-powered destination suggestion based on budget, duration, region & trip type | <code>Python</code>, <code>scikit-learn</code>, <code>Gradio</code> | [GitHub](https://github.com/janmejay484/Travel-Recommender-system) |
+|---|---|---|---|
+| **SkillSync** | MERN + AI career guidance platform | `React`, `Node.js`, `MongoDB`, `AI` | [GitHub](https://github.com/janmejay484/Skill_Analyzer) |
+| **Journal App** | Full-stack journaling web app with secure login | `React`, `Node.js`, `MongoDB` | [GitHub](https://github.com/janmejay484/journal-app) |
+| **ReadIT** | Text-to-Speech with voice commands, file import/export, and local storage | `React`, `Web Speech API`, `JavaScript` | [GitHub](https://github.com/janmejay484/ReadIT) |
+| **Travel Recommender System** | ML destination suggestions by budget, duration, region & trip type | `Python`, `scikit-learn`, `Gradio` | [GitHub](https://github.com/janmejay484/Travel-Recommender-system) |
+
+</details>
+
+<!-- ✨ Subtle divider -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="78%" />
+</p>
+
 
 ---
 ---
