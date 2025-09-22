@@ -1,8 +1,21 @@
-# 👋 Welcome to my profile!
+<!-- 👋 Welcome title -->
+<h2 align="center">👋 Welcome to my profile!</h2>
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&section=header&text=Hi,%20I'm%20Janmejay%20Singh&fontSize=40&fontAlignY=35)
+<!-- Gradient name banner -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF4B2B,100:FF416C&height=150&section=header&text=Hi%2C%20I'm%20Janmejay%20Singh&fontSize=35&fontColor=ffffff&animation=twinkling&fontAlignY=35"/>
+</p>
 
----
+<!-- Typing animation subtitle -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=22&duration=3500&pause=600&color=F6F7F8&center=true&vCenter=true&width=600&lines=Full-Stack+Developer+%F0%9F%92%BB;MERN+%7C+AI+%7C+ML+Explorer+%F0%9F%9A%80;Always+Learning+and+Building+%E2%9A%A1" alt="Typing Animation" />
+</p>
+
+<!-- Divider -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/solar.png" width="70%" />
+</p>
+
 
 ## 🚀 About Me  
 
