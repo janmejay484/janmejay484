@@ -55,7 +55,16 @@ I enjoy creating **scalable, interactive, and user-friendly applications** and I
 
 ---
 
-## 🧩 Skills Overview | Category | Tools | |----------|-------| | **Frontend** | React, Next.js, HTML5, CSS3, Tailwind, Vite | | **Backend** | Node.js, Express.js, REST APIs | | **Database** | MongoDB, MySQL | | **Languages** | Java, JavaScript, TypeScript | | **Dev Tools** | Git, GitHub, Postman, VS Code, Figma | | **Exploring** | AI Integration, Machine Learning basics |
+## 🧩 Skills Overview  
+
+| Category | Tools |
+|----------|-------|
+| **Frontend** | React, Next.js, HTML5, CSS3, Tailwind, Vite |
+| **Backend** | Node.js, Express.js, REST APIs |
+| **Database** | MongoDB, MySQL |
+| **Languages** | Java, JavaScript, TypeScript |
+| **Dev Tools** | Git, GitHub, Postman, VS Code, Figma |
+| **Exploring** | AI Integration, Machine Learning basics |
 
 ---
 
