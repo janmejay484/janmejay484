@@ -4,13 +4,31 @@
 
 ---
 
-## 🚀 About Me
-- 🌱 Currently learning **Next.js** & enhancing **React** skills  
+## 🚀 About Me  
+
+<p align="center">
+  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="120" />
+</p>
+
+💡 I’m a **Computer Science Engineer** who loves building things for the web.  
+I enjoy creating **scalable, interactive, and user-friendly applications** and I’m always curious about blending **AI with Full-Stack Development**.  
+
+✨ **Here’s a little about me:**  
+- 🌱 Currently learning **Next.js** & polishing **React** skills  
 - 💻 Passionate about **Web Development, Java, and MERN Stack**  
-- 🔍 Exploring **AI + Full-stack integration**  
-- 🤝 Open to **collaborations & open-source projects**  
+- 🤝 Open to **collaborations, hackathons, and open-source projects**  
+- 🔍 Exploring **AI-powered career tools & full-stack integrations**  
+- 🎯 Goal: To become a **Full-Stack Developer** who leverages **AI + Web** for impactful solutions  
 
 ---
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Web%20Development-%2302569B.svg?&style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?&style=for-the-badge&logo=java&logoColor=white" />
+  <img src="https://img.shields.io/badge/MERN%20Stack-%23339933.svg?&style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/AI%20Integration-%2300C4CC.svg?&style=for-the-badge&logo=openai&logoColor=white" />
+</p>
+
 
 ## 🛠 Tech Stack  
 
@@ -37,29 +55,7 @@
 
 ---
 
-## 🧩 Skills Overview  
-
-<div align="center">
-  
-**Frontend:**  
-<code>React</code> <code>Next.js</code> <code>HTML5</code> <code>CSS3</code> <code>Tailwind</code> <code>Vite</code>  
-
-**Backend:**  
-<code>Node.js</code> <code>Express.js</code> <code>REST APIs</code>  
-
-**Database:**  
-<code>MongoDB</code> <code>MySQL</code>  
-
-**Languages:**  
-<code>Java</code> <code>JavaScript</code> <code>TypeScript</code>  
-
-**Dev Tools:**  
-<code>Git</code> <code>GitHub</code> <code>Postman</code> <code>VS Code</code> <code>Figma</code>  
-
-**Exploring:**  
-<code>AI Integration</code> <code>Machine Learning basics</code>  
-
-</div>
+## 🧩 Skills Overview | Category | Tools | |----------|-------| | **Frontend** | React, Next.js, HTML5, CSS3, Tailwind, Vite | | **Backend** | Node.js, Express.js, REST APIs | | **Database** | MongoDB, MySQL | | **Languages** | Java, JavaScript, TypeScript | | **Dev Tools** | Git, GitHub, Postman, VS Code, Figma | | **Exploring** | AI Integration, Machine Learning basics |
 
 ---
 
